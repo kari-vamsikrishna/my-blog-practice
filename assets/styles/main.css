@@ -1,4 +1,11 @@
+
+body.dark {
+  background-color: #121212;
+  color: #eee;
+}
+
 button.subscribe {
   background: blue;
   padding: 10px;
 }
+
